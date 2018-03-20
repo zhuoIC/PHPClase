@@ -51,7 +51,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
     }
 }
 else{
-    echo "No entra en el if";
+    echo "Bienvenido/a";
 }
 show_footer();
 ?>
